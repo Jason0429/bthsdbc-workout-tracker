@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/bthsdbc-workout-tracker/static/css/main.2c43d9f2.chunk.css",
+    "main.js": "/bthsdbc-workout-tracker/static/js/main.f4b8262a.chunk.js",
+    "main.js.map": "/bthsdbc-workout-tracker/static/js/main.f4b8262a.chunk.js.map",
+    "runtime-main.js": "/bthsdbc-workout-tracker/static/js/runtime-main.446277fc.js",
+    "runtime-main.js.map": "/bthsdbc-workout-tracker/static/js/runtime-main.446277fc.js.map",
+    "static/js/2.685c6006.chunk.js": "/bthsdbc-workout-tracker/static/js/2.685c6006.chunk.js",
+    "static/js/2.685c6006.chunk.js.map": "/bthsdbc-workout-tracker/static/js/2.685c6006.chunk.js.map",
+    "static/js/3.7926a141.chunk.js": "/bthsdbc-workout-tracker/static/js/3.7926a141.chunk.js",
+    "static/js/3.7926a141.chunk.js.map": "/bthsdbc-workout-tracker/static/js/3.7926a141.chunk.js.map",
+    "index.html": "/bthsdbc-workout-tracker/index.html",
+    "static/css/main.2c43d9f2.chunk.css.map": "/bthsdbc-workout-tracker/static/css/main.2c43d9f2.chunk.css.map",
+    "static/js/2.685c6006.chunk.js.LICENSE.txt": "/bthsdbc-workout-tracker/static/js/2.685c6006.chunk.js.LICENSE.txt",
+    "static/media/burpee.fdc75881.png": "/bthsdbc-workout-tracker/static/media/burpee.fdc75881.png",
+    "static/media/jumpingjack.fdc75881.png": "/bthsdbc-workout-tracker/static/media/jumpingjack.fdc75881.png",
+    "static/media/plank.f1f47378.png": "/bthsdbc-workout-tracker/static/media/plank.f1f47378.png",
+    "static/media/pushup.6db25b6c.png": "/bthsdbc-workout-tracker/static/media/pushup.6db25b6c.png",
+    "static/media/situp.179382f0.png": "/bthsdbc-workout-tracker/static/media/situp.179382f0.png",
+    "static/media/squat.0871d517.png": "/bthsdbc-workout-tracker/static/media/squat.0871d517.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.446277fc.js",
+    "static/js/2.685c6006.chunk.js",
+    "static/css/main.2c43d9f2.chunk.css",
+    "static/js/main.f4b8262a.chunk.js"
+  ]
+}
