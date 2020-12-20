@@ -1,0 +1,5 @@
+- Multiplayer mode
+- Custom exercise, custom reps
+- Append to array
+- Show and tick time since started
+- 
